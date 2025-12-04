@@ -1,4 +1,3 @@
-jadi saya mencoba untuk bikin github di suruh mas mas chevalier 
-
-
-saya coba merge
+nama: Muhammad Ammar Zayyad Rizki
+nim: 607062530023
+divisi: Backend
